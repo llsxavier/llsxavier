@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **react, nodejs, easy deploy**
+- 💬 Ask me about **react, nodejs**
 
 - 📫 How to reach me **leonardoxw@gmail.com**
 
